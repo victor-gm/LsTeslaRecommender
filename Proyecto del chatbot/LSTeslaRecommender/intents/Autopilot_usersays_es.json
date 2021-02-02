@@ -1,0 +1,132 @@
+[
+  {
+    "id": "035228a1-9242-4ed1-83f4-590be505ac29",
+    "data": [
+      {
+        "text": "Siempre",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "56808cd3-9859-48f4-901b-fbf1768c55e3",
+    "data": [
+      {
+        "text": "Muchísimo",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "01fdb071-7a11-4a66-a0ce-a02dff06cd67",
+    "data": [
+      {
+        "text": "Un poco",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "59cadb95-a7f9-4567-a875-99d7511b4e7a",
+    "data": [
+      {
+        "text": "Poco",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d70a1d01-9b6c-432e-b814-64290a7f0b03",
+    "data": [
+      {
+        "text": "No",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f4ea456-29d5-428a-a8d8-b74889a503ae",
+    "data": [
+      {
+        "text": "Sí",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a5bfadf-5170-4faf-a327-13f94109941e",
+    "data": [
+      {
+        "text": "Demasiado",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f2df154f-e322-4613-b6bf-ce4255704a02",
+    "data": [
+      {
+        "text": "Nunca",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b27fce45-a2d3-4c46-b6ad-2c952f4d98db",
+    "data": [
+      {
+        "text": "A veces",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "82646036-0443-4cbf-a069-6e54364e9b96",
+    "data": [
+      {
+        "text": "Mucho",
+        "alias": "cualificador",
+        "meta": "@cualificador",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

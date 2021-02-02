@@ -1,0 +1,151 @@
+[
+  {
+    "id": "f9d4ac02-3f47-4424-98ba-c69fce20e900",
+    "data": [
+      {
+        "text": "Roma",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2bda997f-5b9a-402f-a348-00f4b11c7aed",
+    "data": [
+      {
+        "text": "En ",
+        "userDefined": false
+      },
+      {
+        "text": "Esplugues de Llobregat",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3a01addd-4010-49b6-ad1c-d2368eeb1045",
+    "data": [
+      {
+        "text": "En ",
+        "userDefined": false
+      },
+      {
+        "text": "Cornella",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "481d8f02-ada3-4a5c-b7ac-c2166816d08a",
+    "data": [
+      {
+        "text": "Resido en ",
+        "userDefined": false
+      },
+      {
+        "text": "París",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8a54767d-2c15-4bdd-884d-617caa2a0512",
+    "data": [
+      {
+        "text": "Habito en ",
+        "userDefined": false
+      },
+      {
+        "text": "Ibiza",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0af6e8c7-4516-47b8-8877-92f9f9959f10",
+    "data": [
+      {
+        "text": "Yo vivo en ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokio",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1a0bd3a7-72c5-4914-b756-7ce00651968b",
+    "data": [
+      {
+        "text": "En ",
+        "userDefined": false
+      },
+      {
+        "text": "Roma",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b324e478-6369-4ebc-acab-a99ad2e38ab7",
+    "data": [
+      {
+        "text": "En ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cd20fb85-1b56-44f5-807b-332b2eea4f4d",
+    "data": [
+      {
+        "text": "En ",
+        "userDefined": false
+      },
+      {
+        "text": "Barcelona",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

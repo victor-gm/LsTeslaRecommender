@@ -1,0 +1,36 @@
+{
+  "id": "678918f1-70e8-405b-b246-26ccd28aeee6",
+  "name": "Uso",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d04e136-3ffe-4d13-b279-b1380f5f8bb5",
+          "required": false,
+          "dataType": "@uso_tesla",
+          "name": "uso_tesla",
+          "value": "$uso_tesla",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "De acuerdo, tu nuevo Tesla será perfecto para $uso_tesla ¿Cual va a ser la distancia a la que lo usará normalmente?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

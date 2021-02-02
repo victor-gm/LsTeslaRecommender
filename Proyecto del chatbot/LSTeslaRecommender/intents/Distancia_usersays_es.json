@@ -1,0 +1,71 @@
+[
+  {
+    "id": "a70ce8ee-b96a-4fc2-a420-f10179113f70",
+    "data": [
+      {
+        "text": "50",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kilometros",
+        "alias": "distancia",
+        "meta": "@distancia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2db9d558-19d8-4316-9bf0-3e31b997c1cd",
+    "data": [
+      {
+        "text": "50",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "metros",
+        "alias": "distancia",
+        "meta": "@distancia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "425ecb2c-98f1-4e2c-a2a5-bff2497f6e75",
+    "data": [
+      {
+        "text": "50",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "km",
+        "alias": "distancia",
+        "meta": "@distancia",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

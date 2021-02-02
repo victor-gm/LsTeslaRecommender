@@ -1,0 +1,9 @@
+{
+  "id": "a50172de-40da-4d53-9e9b-7bc0ed27bfd7",
+  "name": "Movil",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}
