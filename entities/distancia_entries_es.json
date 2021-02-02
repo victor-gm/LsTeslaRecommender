@@ -1,0 +1,21 @@
+[
+  {
+    "value": "Metro",
+    "synonyms": [
+      "Metro",
+      "M",
+      "m",
+      "Metros"
+    ]
+  },
+  {
+    "value": "Kilometro",
+    "synonyms": [
+      "Kilometro",
+      "km",
+      "Km",
+      "KM",
+      "Kilometros"
+    ]
+  }
+]

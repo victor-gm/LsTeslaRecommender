@@ -1,0 +1,40 @@
+{
+  "id": "c3d7df50-2f76-4dda-8407-9455a692379b",
+  "name": "Casa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2edeaa07-fdac-47f0-b5c3-3c79ac8846e5",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Buen sitio para vivir.¿Sueles tener accidentes?",
+            "Buen sitio para vivir. ¿Disfrutas conduciendo?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

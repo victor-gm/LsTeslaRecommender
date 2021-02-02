@@ -1,0 +1,24 @@
+[
+  {
+    "value": "Nexus",
+    "synonyms": [
+      "Nexus",
+      "Nexus 4",
+      "Nexus 5",
+      "Nexus 6"
+    ]
+  },
+  {
+    "value": "Samsung",
+    "synonyms": [
+      "Samsung",
+      "Samsung s6"
+    ]
+  },
+  {
+    "value": "Iphone X",
+    "synonyms": [
+      "Iphone X"
+    ]
+  }
+]

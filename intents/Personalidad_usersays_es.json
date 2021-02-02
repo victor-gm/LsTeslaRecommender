@@ -1,0 +1,109 @@
+[
+  {
+    "id": "846c87f4-3387-486a-9a11-1a50f105f78c",
+    "data": [
+      {
+        "text": "alegre",
+        "alias": "tipopersona",
+        "meta": "@tipopersona",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "61e909d4-e82d-4828-8e4e-53c29f6a6891",
+    "data": [
+      {
+        "text": "Yo soy bastante ",
+        "userDefined": false
+      },
+      {
+        "text": "humilde",
+        "alias": "tipopersona",
+        "meta": "@tipopersona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1432a982-1737-4694-9f29-eca44d056298",
+    "data": [
+      {
+        "text": "La mayor parte del tiempo me siento ",
+        "userDefined": false
+      },
+      {
+        "text": "vivo",
+        "alias": "tipopersona",
+        "meta": "@tipopersona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aff07849-329e-4954-ae38-48c088412aea",
+    "data": [
+      {
+        "text": "Suelo ser bastante ",
+        "userDefined": false
+      },
+      {
+        "text": "bromista",
+        "alias": "tipopersona",
+        "meta": "@tipopersona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fe982d9c-fdbf-434b-ad20-11f75e221c88",
+    "data": [
+      {
+        "text": "Me considero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " persona ",
+        "userDefined": false
+      },
+      {
+        "text": "trágica",
+        "alias": "tipopersona",
+        "meta": "@tipopersona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9f3e2ba7-9ac1-43c8-9575-7124b5e7beda",
+    "data": [
+      {
+        "text": "Soy una persona ",
+        "userDefined": false
+      },
+      {
+        "text": "alegre",
+        "alias": "tipopersona",
+        "meta": "@tipopersona",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

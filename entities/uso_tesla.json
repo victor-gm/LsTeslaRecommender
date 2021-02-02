@@ -1,0 +1,9 @@
+{
+  "id": "31d9ebf3-9541-40e0-baab-56539db1e558",
+  "name": "uso_tesla",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

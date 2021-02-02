@@ -1,0 +1,9 @@
+{
+  "id": "163b1b6a-0571-4c1e-9831-389d18f0b06a",
+  "name": "distancia",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

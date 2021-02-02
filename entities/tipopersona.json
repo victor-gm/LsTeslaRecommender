@@ -1,0 +1,9 @@
+{
+  "id": "bd1f0f5c-3e84-47b0-ad02-7cd6fb4e0995",
+  "name": "tipopersona",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
