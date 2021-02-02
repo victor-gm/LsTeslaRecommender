@@ -1,9 +1,0 @@
-{
-  "id": "265d8d7f-a75d-43ca-a021-38d7a7d67934",
-  "name": "cualificador",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}
